@@ -1,5 +1,5 @@
 # Spelunking
-![SPELUNKING Logo](WhatsApp%20Image%202025-11-27%20at%2020.00.16_2d3333ba.jpg)
+![SPELUNKING Logo](untitled.jpg)
 
 A top-down, tile-based spelunking game built with C and Raylib.
 
