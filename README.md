@@ -1,4 +1,5 @@
-# Spelunking - Area 1
+# Spelunking
+![Uploading image.png…]()
 
 A top-down, tile-based spelunking game built with C and Raylib.
 
